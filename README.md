@@ -5,6 +5,6 @@
 - 📫 Reach me on alekhyamanigugglla@gmail.com 
 
 <!---
-AlekhyamaniG/AlekhyamaniG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+AlekhyamaniG/AlekhyamaniG.
+Having experience as an Embedded Software Engineer for past 2 years, I possess a good knowledge on Implementing and maintaining software of Embedded devices and systems from production and commercial deployment. Got exposed to programming languages like C, C++ & Python. Been involved in testing/deploying of Open RAN systems.
 --->
